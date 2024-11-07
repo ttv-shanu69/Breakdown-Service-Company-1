@@ -1,0 +1,300 @@
+@media screen and (max-width: 1272px) {
+    .data-head {
+        width: 980px;
+    }
+    .logo-elementor {
+        width: 28%;
+    }
+    .link-container {
+        width: 47%;
+    }
+}
+
+@media screen and (max-width: 1150px) {
+    .main-head {
+        font-size: 62px;
+    }
+    .heding-elementor {
+        width: 1000px;
+    }
+    .heding-elementor p {
+        padding: 0 25px;
+    }
+    .s-box-elementor {
+        width: 800px;
+    }
+    .srv-container {
+        height: 550px;
+    }
+}
+
+@media screen and (max-width: 1000px) {
+    .heding-elementor {
+        width: 800px;
+    }
+    .main-head {
+        font-size: 55px;
+    }
+    .hero-section {
+        height: 750px;
+    }
+    .services-elementor {
+        display: flex;
+        align-items: flex-start;
+        padding: 10px 0;
+    }
+    .s-box-elementor {
+        width: 90%;
+    }
+    .srv-container {
+        height: 100%;
+        width: 45%;
+    }
+    .transport-elementor {
+        width: 100%;
+    }
+    .srv-flex {
+        flex-wrap: wrap;
+    }
+}
+
+@media screen and (max-width: 985px) {
+    .link-container {
+        display: none;
+    }
+    .logo-elementor {
+        width: 75%;
+    }
+    .data-head {
+        width: 100%;
+    }
+    .tel-button {
+        text-align: center;
+        padding: 8px 14px;   
+    }
+    .menu-element {
+        width: 10%;
+        padding: 0 0 0 5px;
+    }
+    #menu-icon {
+        display: flex;
+        font-size: 40px;
+    }
+}
+
+@media screen and (max-width: 857px) {
+    .logo-elementor {
+        width: 72%;
+    }
+}
+
+@media screen and (max-width: 802px) {
+    .heding-elementor {
+        width: 620px;
+    }
+    .main-head {
+        font-size: 48px;
+    }
+    .heding-elementor p {
+        font-size: 18px;
+        padding: 0 15px;
+    }
+    .main-para {
+        margin-top: 32px;
+    }
+}
+
+@media screen and (max-width: 788px) {
+    .logo-elementor {
+        width: 65%;
+    }
+    .logo {
+        width: 155px;
+        height: 55px;
+    }
+}
+
+@media screen and (max-width: 750px) {
+    .s-box-elementor {
+        margin: 4% 18px;
+    }
+}
+
+@media screen and (max-width: 670px) {
+    .s-box-elementor {
+        margin: 10px 15px;
+    }
+    .srv-container {
+        width: 100%;
+    }
+    .srv-widget-elementor {
+        height: 60px;
+    }
+    .srv-element-head {
+        margin: 20px 0 0 0;
+    }
+    .s-box-elementor {
+        padding-top: 15px;
+    }
+}
+
+@media screen and (max-width: 630px) {
+    .logo-elementor {
+        width: 62%;
+    }
+}
+
+@media screen and (max-width: 622px) {
+    .heding-elementor {
+        width: 100%;
+    }
+    .main-head {
+        font-size: 40px;
+    }
+    .heding-elementor p {
+        font-size: 17px;
+    }
+    .hero-section {
+        height: 700px;
+    }
+}
+
+@media screen and (max-width: 563px) {
+    .tel-button {
+        display: none;
+    }
+    .logo-elementor {
+        width: 90%;
+    }
+    .srv-element-para {
+        padding-top: 25px;
+    }
+    .srv-widget-elementor {
+        font-size: 68px;
+    }
+}
+
+@media screen and (max-width: 520px) {
+    .main-head {
+        font-size: 34px;
+    }
+    .heding-elementor p {
+        padding: 0 30px;
+    }
+}
+
+@media screen and (max-width: 450px) {
+    .heding-elementor p {
+        font-size: 15px;
+    }
+    .hero-btn {
+        font-size: 14px;
+        padding: 10px 18px;
+    }
+    .hero-section {
+        height: 650px;
+    }
+    .logo {
+        height: 55px;
+        width: 140px;
+    }
+    .logo-elementor {
+        width: 80%;
+    }
+    .srv-element-head {
+        font-size: 26px;
+    }
+    .srv-widget {
+        font-size: 50px;
+    }
+    .s-box-elementor {
+        padding: 15px;
+    }
+    .services-elementor {
+        display: flex;
+        align-items: flex-start;
+    }
+    .srv-element-para {
+        font-size: 13px;
+    }
+    .heding-elementor p {
+        padding: 0 15px;
+    }
+}
+
+@media screen and (max-width: 400px) {
+    .logo {
+        width: 110px;
+        height: 52px;
+    }
+    .main-head {
+        font-size: 30px;
+    }
+    .heding-elementor p {
+        font-size: 14px;
+    }
+    #menu-icon {
+        font-size: 35px;
+    }
+    .srv-element-head {
+        font-size: 23px;
+    }
+}
+
+@media screen and (max-width: 360px) {
+    .main-head {
+        font-size: 160%;
+    }
+    .hero-btn {
+        padding: 8px 15px;
+        font-size: 13px;
+    }
+}
+
+@media screen and (max-width: 340px) {
+    .logo-elementor {
+        width: 70%;
+    }
+    .hero-section {
+        height: 700px;
+    }
+}
+
+@media screen and (max-width: 310px) {
+    .main-head {
+        font-size: 145%;
+    }
+    .heding-elementor p {
+        font-size: 11px;
+    }
+    .hero-section {
+        height: 580px;
+    }
+}
+
+@media screen and (max-width: 300px) {
+    .srv-element-head {
+        font-size: 7vw;
+    }
+    .srv-widget {
+        font-size: 20vw;
+    }
+    .srv-element-para {
+        font-size: 5vw;
+    }
+    .hero-btn-elementor {
+        width: 100%;
+        height: 25px;
+    }
+}
+
+@media screen and (max-width: 260px) {
+    .hero-section {
+    }
+}
+
+@media screen and (max-width: 160px) {
+    .hero-btn {
+        display: none;
+    }
+}
