@@ -8,6 +8,23 @@
     .link-container {
         width: 47%;
     }
+    .right-el-img {
+        height: 420px;
+        width: 310px;
+    }
+    .block-img {
+        height: 190px;
+        width: 220px;
+    }
+    .why-head {
+        font-size: 46px;
+    }
+    .h-who-we-are {
+        font-size: 16px;
+    }
+    .right-elementor {
+        padding-top: 80px;
+    }
 }
 
 @media screen and (max-width: 1150px) {
@@ -21,10 +38,43 @@
         padding: 0 25px;
     }
     .s-box-elementor {
-        width: 800px;
+        width: 1000px;
     }
     .srv-container {
         height: 550px;
+    }
+}
+
+@media screen and (max-width: 1135px) {
+    .flex-about {
+        display: block;
+    }
+    .left-elementor {
+        width: 100%;
+    }
+    .right-elementor {
+        width: 100%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .content-elementor {
+        margin: 0 auto;
+        width: 100%;
+        max-width: 900px;
+    } 
+    .img-flx-el {
+        width: 100%;
+        max-width: 900px;
+        margin: 0 auto;
+    }
+    .right-el-img {
+        height: 580px;
+        width: 480px;
+    }
+    .block-img {
+        height: 280px;
+        width: 320px;
     }
 }
 
@@ -50,11 +100,9 @@
         height: 100%;
         width: 45%;
     }
-    .transport-elementor {
-        width: 100%;
-    }
     .srv-flex {
         flex-wrap: wrap;
+        gap: 10px;
     }
 }
 
@@ -80,6 +128,9 @@
         display: flex;
         font-size: 40px;
     }
+    .nav-elementor {
+        display: block;
+    }
 }
 
 @media screen and (max-width: 857px) {
@@ -102,6 +153,33 @@
     .main-para {
         margin-top: 32px;
     }
+    .right-elementor {
+        display: block;
+        padding-top: 30px;
+    }
+    .img-flx-el {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-wrap: wrap;
+    }
+    .right-el-img {
+        width: 630px;
+        height: 720px;
+    }
+    .block-img {
+        width: 630px;
+        height: 500px;
+        margin-top: 30px;
+        border-radius: 24px;
+    }
+    .block-el-imgs {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-wrap: wrap;
+        padding-left: 0;
+    }
 }
 
 @media screen and (max-width: 788px) {
@@ -117,6 +195,12 @@
 @media screen and (max-width: 750px) {
     .s-box-elementor {
         margin: 4% 18px;
+    }
+}
+
+@media screen and (max-width: 730px) {
+    .flex-top-bar {
+        flex-wrap: wrap;
     }
 }
 
@@ -136,11 +220,62 @@
     .s-box-elementor {
         padding-top: 15px;
     }
+    .right-el-img {
+        width: 540px;
+        height: 700px;
+    }
+    .block-img {
+        width: 540px;
+        height: 460px;
+        margin-top: 23px;
+    }
+    .why-head {
+        font-size: 43px;
+        padding-top: 0;
+    }
+    .about-p {
+        padding-top: 5px;
+    }
+    .left-ul {
+        padding-top: 5px;
+    }
+}
+
+@media screen and (max-width: 635px) {
+    .why-head {
+        font-size: 30px;
+    }
+    .about-p {
+        font-size: 15px;
+        margin-bottom: 7px;
+    }
+    .kp-li span {
+        font-size: 15px;
+
+    }
+    .kp-li i {
+        font-size: 15px;
+    }
+    .kp-li {
+        padding-bottom: 10px;
+    }
 }
 
 @media screen and (max-width: 630px) {
     .logo-elementor {
         width: 62%;
+    }
+    .top-element {
+        padding: 0 20px;
+    }
+    .flex-top-bar {
+        padding: 5px 15px;
+    }
+    .h-who-we-are {
+        font-size: 13px;
+    }
+    .left-elementor {
+        padding: 0 15px;
     }
 }
 
@@ -159,6 +294,12 @@
     }
 }
 
+@media screen and (max-width: 574px) {
+    .left-elementor {
+        padding: 0 15px;
+    }
+}
+
 @media screen and (max-width: 563px) {
     .tel-button {
         display: none;
@@ -172,6 +313,27 @@
     .srv-widget-elementor {
         font-size: 68px;
     }
+    .flex-top-bar {
+        justify-content: center;
+        width: 100%;
+    }
+    .contact-email-elementor {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .social-links {
+        padding-top: 10px;
+    }
+    .right-el-img {
+        width: 500px;
+        height: 660px;
+    }
+    .block-img {
+        width: 500px;
+        height: 420px;
+        margin-top: 23px;
+    }
 }
 
 @media screen and (max-width: 520px) {
@@ -180,6 +342,23 @@
     }
     .heding-elementor p {
         padding: 0 30px;
+    }
+    .right-el-img {
+        width: 100vw;
+        height: 100vw;
+    }
+    .block-img {
+        height: 100vw;
+        width: 95vw;
+    }
+    .block-el-imgs {
+        padding: 0 10px;
+    }
+}
+
+@media screen and (max-width: 475px) {
+    .top-element {
+        font-size: 15px;
     }
 }
 
@@ -220,6 +399,60 @@
     .heding-elementor p {
         padding: 0 15px;
     }
+    .contact-email-elementor {
+        display: block;
+    }
+    .top-contact-element {
+        text-align: center;
+        display: flex;
+        justify-content: center;
+    }
+    .email-element {
+        padding: 8px 0 0 0;
+    }
+    .top-element i {
+        font-size: 15px;
+    }
+    .top-element {
+        font-size: 13px;
+    }
+    .email-element {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+    }
+    .flex-top-bar {
+        display: block;
+    }
+    .social-links {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .why-head {
+        font-size: 28px;
+    }
+    .h-who-we-are {
+        font-size: 10px;
+    }
+    .about-p {
+        font-size: 14px;
+    }
+    .kp-li i {
+        font-size: 14px;
+    }
+    .kp-li span {
+        font-size: 14px;
+        padding-left: 5px;
+    }
+    .left-elementor {
+        padding: 0 10px;
+    }
+    .more-btn {
+        padding: 8px 13px;
+        font-size: 14px;
+    }
 }
 
 @media screen and (max-width: 400px) {
@@ -249,6 +482,9 @@
         padding: 8px 15px;
         font-size: 13px;
     }
+    .email-element {
+        font-size: 13px;
+    }
 }
 
 @media screen and (max-width: 340px) {
@@ -257,6 +493,9 @@
     }
     .hero-section {
         height: 700px;
+    }
+    .flex-top-bar {
+        padding: 5px;
     }
 }
 
@@ -285,6 +524,15 @@
     .hero-btn-elementor {
         width: 100%;
         height: 25px;
+    }
+    .top-element {
+        font-size: 4vw;
+    }
+    .social-links i {
+        font-size: 5vw;
+    }
+    .social-links {
+        padding-top: 2px;
     }
 }
 
